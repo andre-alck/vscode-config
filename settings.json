@@ -1,0 +1,39 @@
+{
+    "editor.fontSize": 26,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.untitled.hint": "hidden",
+
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "onFocusChange",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.linkedEditing": true,
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "files.exclude": {
+        "**/.exe": true
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\User\\anaconda3\\python.exe",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+    "settingsSync.ignoredSettings": [
+    
+    ]
+}
