@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 26,
+    "editor.fontSize": 28,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.iconTheme": "vscode-icons",
     "workbench.editor.untitled.hint": "hidden",
@@ -19,7 +19,6 @@
     "editor.tabSize": 4,
     "prettier.tabWidth": 4,
     "liveServer.settings.donotShowInfoMsg": true,
-    "editor.formatOnSave": true,
     "liveServer.settings.donotVerifyTags": true,
     "files.exclude": {
         "**/.exe": true
@@ -28,12 +27,22 @@
         "editor.defaultFormatter": "ms-python.python"
     },
     "python.defaultInterpreterPath": "C:\\Users\\User\\anaconda3\\python.exe",
+    "remote.SSH.remotePlatform": {
+        "170.187.155.192": "linux",
+        "170.187.200.164": "linux"
+    },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
-    "settingsSync.ignoredExtensions": [
-    
-    ],
-    "settingsSync.ignoredSettings": [
-    
-    ]
+    "settingsSync.ignoredExtensions": [],
+    "settingsSync.ignoredSettings": [],
+    "vsicons.dontShowNewVersionMessage": true,
+    "[sql]": {
+        "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+    },
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "sql-formatter.uppercase": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
 }
